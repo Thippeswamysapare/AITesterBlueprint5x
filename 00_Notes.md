@@ -117,7 +117,16 @@ Ex:  File.md
 [code.visualstudio.com/download?_exp_download=d53503e735](https://code.visualstudio.com/download?_exp_download=d53503e735) 
 
 
+## Push the code with the skillcreated - advance.
+[github.com/PramodDutta/AITesterBlueprint5x/blob/main/Chapter_00_SKILL_Basics/01_advance-skills/testplan-creator-skill_a/SKILL.md](https://github.com/PramodDutta/AITesterBlueprint5x/blob/main/Chapter_00_SKILL_Basics/01_advance-skills/testplan-creator-skill_a/SKILL.md) 
+
+**Task for 3** 
+
+[github.com/PramodDutta/skillmasterclass/tree/main/skillmasterclass/skills](https://github.com/PramodDutta/skillmasterclass/tree/main/skillmasterclass/skills) 
+
+
 ===========================================================================
 
 # AI Engineering
 Building applications on the top of existing foundation models
+
